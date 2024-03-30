@@ -1,0 +1,9 @@
+- OS: Linux-4.18.0-513.9.1.el8_9.x86_64-x86_64-with-glibc2.2.5 # 1 SMP Sat Dec 2 05:23:44 EST 2023
+- Python: 3.8.10
+- Stable-Baselines3: 2.2.1
+- PyTorch: 2.2.1+cu121
+- GPU Enabled: True
+- Numpy: 1.24.4
+- Cloudpickle: 1.6.0
+- Gymnasium: 0.29.1
+- OpenAI Gym: 0.18.0
